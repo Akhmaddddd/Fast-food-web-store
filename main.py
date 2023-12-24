@@ -3,7 +3,7 @@ from aiogram.types import Message, CallbackQuery, LabeledPrice
 from database import *
 from keyboards import *
 
-TOKEN = '6643077324:AAHigM8ZwD0ntqQd0A5m3If-bMXYJN4RUGs'
+TOKEN = 'Your telegram bottoken'
 PAYMENT = '398062629:TEST:999999999_F91D8F69C042267444B74CC0B3C747757EB0E065'
 
 bot = Bot(TOKEN)
